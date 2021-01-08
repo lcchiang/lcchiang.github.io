@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #363e9c;
+  color: #0d2977;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #7178bb;
+  color: #718fbb;
   text-decoration: underline;
 }
 
@@ -9777,11 +9777,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #363e9c !important;
+  color: #0d2977 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #7178bb !important;
+  color: #5f79c2 !important;
 }
 
 .text-secondary {
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #7178bb;
+  background-color: #7c8cb9;
 }
 
 .dev-icons {
